@@ -2,4 +2,4 @@
 
 - Aircraft
 - Bio-industries
-- (Smart Trains)[https://mods.factorio.com/mod/SmartTrains]
+- [Smart Trains](https://mods.factorio.com/mod/SmartTrains)
